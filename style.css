@@ -1,0 +1,42 @@
+.weather{
+    background-color: #f44141;
+    width: 300px;
+    height: 350px;
+    text-align: center;
+}
+.weather-left{
+    width: 400px;
+    height: 150px;
+}
+.weather-left .weather-city{
+    font-family: Serif Arial;
+    font-size: 18px;
+    color: #000;
+}
+.weather-left .weather-icon{
+
+}
+.weather-left .weather-temperature{
+    font-family: Serif Arial;
+    font-size: 16px;
+    color: #4245f4;
+}
+.weather-right{
+    width: 300px;
+    height: 200px;
+}
+.weather-right .weather-humidity{
+    font-family: Serif Arial;
+    font-size: 16px;
+    color: #000;
+}
+.weather-right .weather-pressure{
+    font-family: Serif Arial;
+    font-size: 16px;
+    color: #000;
+}
+.weather-right .weather-visibility{
+    font-family: Serif Arial;
+    font-size: 16px;
+    color: #000;
+}
